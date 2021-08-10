@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/eoq5v6ymwauu88w2?svg=true)](https://ci.appveyor.com/project/Tanzilia81232/api2ci)
+[![Java CI with Gradle](https://github.com/TanziliaM/API2CI/actions/workflows/gradle.yml/badge.svg)](https://github.com/TanziliaM/API2CI/actions/workflows/gradle.yml)
