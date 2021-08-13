@@ -13,7 +13,7 @@
     "additionalProperties": false,
     "properties": {
       "id": {
-        "type": "boolean"
+        "type": "integer"
       },
       "name": {
         "type": "string",
@@ -28,6 +28,7 @@
       },
       "currency": {
         "type": "string",
+        "pattern": "USD|RUB"
       }
     }
   }
